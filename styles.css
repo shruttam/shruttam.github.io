@@ -1,0 +1,13 @@
+body {
+    background: cyan;
+}
+
+h1 {
+    color: chocolate;
+}
+
+h2 {
+    background: yellow;
+    width: 50%;
+    border: 3px solid red;
+}
